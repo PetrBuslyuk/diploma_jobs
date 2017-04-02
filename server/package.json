@@ -1,0 +1,10 @@
+{
+  "name": "server-diploma",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3"
+  }
+}

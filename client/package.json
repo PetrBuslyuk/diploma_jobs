@@ -1,0 +1,12 @@
+{
+  "name": "client-diploma",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^0.4.2",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-webserver": "^0.9.1",
+    "livereload": "^0.6.2"
+  }
+}
